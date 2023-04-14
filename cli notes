@@ -1,0 +1,7 @@
+查看conda环境中的cuda版本
+``` shell
+conda list | grep cuda
+```
+
+
+
